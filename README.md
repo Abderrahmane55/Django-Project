@@ -3,7 +3,7 @@
 
 ### Project Based on Python Framework(Django) / Html / Css / JavaScript.
 
-### [ASA Fitness] is a E-commerce website done by Ellaouzi Abderrahane for the sale of sports/fitness articles.
+### [ASA Fitness] is a E-commerce website  for the sale of sports/fitness articles.
 
 For running the project you must have the latest version of python and running these commands after importing the project in a empty folder:
 
