@@ -137,6 +137,6 @@ We also added a possibility to change the password
 
 ![image](https://user-images.githubusercontent.com/101675260/176561790-5b93bcb7-d03c-46bd-9902-d18c20865e6b.png)
 
-![image](https://user-images.githubusercontent.com/101675260/176562886-a9d12817-f82a-4293-bcb8-9dd672f936c1.png)
+
 
 ![image](https://user-images.githubusercontent.com/101675260/176562979-ad6bbc92-d477-4e15-bf30-15f659f9eeb5.png)
