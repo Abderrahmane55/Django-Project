@@ -1,8 +1,5 @@
-# django-P
->We want to thank you Mr Jamal for the attention you have given us during this semester and we hope that you'll teach us in the futur.
 
 # Project Report
->Collaborators Amine Hifdi / Abderrahmane Ellaouzi / Soulaiman Hilal Emsi 3th IIR Group G4 Maarif.
 
 ### Project Based on Python Framework(Django) / Html / Css / JavaScript.
 
